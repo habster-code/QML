@@ -1,0 +1,4 @@
+module layouts
+typeinfo applayouts.qmltypes
+prefer :/
+
