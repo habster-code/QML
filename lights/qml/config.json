@@ -1,0 +1,8 @@
+{
+    "title": "Lights",
+    "identifier": "com.yourcompany.wizardEVAP.Lights",
+    "orientation": "auto",
+    "versioncode": 1,
+    "versionname": "1.0.0",
+    "stage": "test"
+}

@@ -1,0 +1,4 @@
+module lights
+typeinfo applights.qmltypes
+prefer :/
+
