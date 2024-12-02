@@ -1,0 +1,15 @@
+-rootPath
+C:/Users/Home/Documents/qml/smth
+-cmake-output
+-output-file
+C:/Users/Home/Documents/qml/smth/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Release/.qt_plugins/Qt6_QmlPlugins_Imports_appsmth.cmake
+-importPath
+C:/Users/Home/Documents/qml/smth/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Release/smth
+-importPath
+C:/Users/Home/Documents/qml/smth/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Release
+-importPath
+D:/felgo/Felgo/mingw_64/./qml
+-qrcFiles
+C:/Users/Home/Documents/qml/smth/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Release/.rcc/qmake_smth.qrc
+C:/Users/Home/Documents/qml/smth/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Release/.rcc/qmake_smth_copy.qrc
+C:/Users/Home/Documents/qml/smth/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Release/.rcc/appsmth_raw_qml_0.qrc

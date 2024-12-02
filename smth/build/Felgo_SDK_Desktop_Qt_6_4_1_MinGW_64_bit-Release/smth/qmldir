@@ -1,0 +1,7 @@
+module smth
+typeinfo appsmth.qmltypes
+prefer :/
+Comp_rect 1.0 qml/Comp_rect.qml
+Btn_rect 1.0 qml/Btn_rect.qml
+Btn_rect 1.0 qml/Btn_rect.qml
+

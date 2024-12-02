@@ -1,0 +1,17 @@
+C:/Users/Home/Documents/qml/smth/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/appsmth.dir
+C:/Users/Home/Documents/qml/smth/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/Felgo_other_files.dir
+C:/Users/Home/Documents/qml/smth/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/Felgo_resources_1.dir
+C:/Users/Home/Documents/qml/smth/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/appsmth_qmltyperegistration.dir
+C:/Users/Home/Documents/qml/smth/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/all_qmltyperegistrations.dir
+C:/Users/Home/Documents/qml/smth/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/appsmth_other_files.dir
+C:/Users/Home/Documents/qml/smth/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/appsmth_qmlimportscan.dir
+C:/Users/Home/Documents/qml/smth/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Home/Documents/qml/smth/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Home/Documents/qml/smth/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Home/Documents/qml/smth/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/Home/Documents/qml/smth/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/Home/Documents/qml/smth/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/Home/Documents/qml/smth/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/appsmth_autogen_timestamp_deps.dir
+C:/Users/Home/Documents/qml/smth/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/appsmth_autogen.dir
+C:/Users/Home/Documents/qml/smth/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/Felgo_resources_1_autogen_timestamp_deps.dir
+C:/Users/Home/Documents/qml/smth/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/Felgo_resources_1_autogen.dir

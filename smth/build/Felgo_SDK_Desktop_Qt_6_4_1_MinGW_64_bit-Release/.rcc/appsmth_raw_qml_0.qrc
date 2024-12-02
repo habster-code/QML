@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="qml/Comp_rect.qml">C:/Users/Home/Documents/qml/smth/qml/Comp_rect.qml</file>
+    <file alias="qml/Btn_rect.qml">C:/Users/Home/Documents/qml/smth/qml/Btn_rect.qml</file>
+    <file alias="qml/Btn_rect.qml">C:/Users/Home/Documents/qml/smth/qml/Btn_rect.qml</file>
+  </qresource>
+</RCC>
+

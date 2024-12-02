@@ -1,0 +1,4 @@
+module smth
+typeinfo appsmth.qmltypes
+prefer :/
+
